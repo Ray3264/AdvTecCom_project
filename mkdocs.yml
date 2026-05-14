@@ -38,9 +38,18 @@ nav:
   - Concept:
       - Overview: concept/overview.md
   - Gameplay:
-      - Mechanics: gameplay/mechanics.md
+      - Mechanics: 
+        - Engine Mode: gameplay/engineMode.md
+        - Dialogue System: gameplay/dialogueSystem.md
+        - Walking System: gameplay/walkingSystem.md
   - World:
+      - Characters: world/characters.md
       - Levels: world/levels.md
-  - Technical:
-      - Engine: technical/engine.md
-  - About: about.md
+  - Development:
+      - Architecture: development/architecture.md
+      - Scripting: development/scripting.md
+      - Tools: development/tools.md
+      - Art: development/art.md
+  - Support: 
+      - FAQ: support/faq.md
+      - Contact: support/contact.md
